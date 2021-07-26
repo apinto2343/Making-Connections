@@ -1,12 +1,12 @@
 # COP 3665 - Mobile Programming
 
-# Submit by August 7th (No Grace Period) 
+# Submit by August 6th (No Grace Period) 
 
-# Project 3 - Making Connections
+# Project 4 - Making Connections
 
 ## Objective:
 
-This is an optional third project that can be completed to replace one of the two previous projects of the course. This project focuses on custom views and adding touch events.  
+This is an optional forth project that can be completed to replace one of the two previous projects of the course. This project focuses on custom views and adding touch events.  
 
 ## Problem Description:
 

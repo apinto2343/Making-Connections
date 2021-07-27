@@ -6,7 +6,7 @@
 
 ## Objective:
 
-This is an optional forth project that can be completed to replace one of the two previous projects of the course. This project focuses on custom views and adding touch events.  
+This is an optional forth project that can be completed to replace one of the three previous projects of the course. This project focuses on custom views and adding touch events.  
 
 ## Problem Description:
 
